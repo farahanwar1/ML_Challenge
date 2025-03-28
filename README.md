@@ -129,6 +129,7 @@ This project provides a web-based interface for crime data analysis and predicti
 ### **Additional Notes**
 - **Data Storage**: All submitted reports are appended to `crime_data_with_severity.csv`.
 - **Error Handling**: The app ensures correct date-time formatting and handles missing input fields.
+- **Files Download**: Make sure you downlad all the files in the repository to avoid an errors.
 
 ---
 
